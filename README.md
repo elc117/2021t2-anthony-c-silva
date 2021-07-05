@@ -1,6 +1,5 @@
 
-
-#TRABALHO 2 - PARADIGMAS DE PROGRAMAÇÃO 
+# TRABALHO 2 - PARADIGMAS DE PROGRAMAÇÃO 
 
 ## Link do Video de List Comprehensions<h1>
 
